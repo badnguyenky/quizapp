@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>951498502876-a6n6j3n2slva55aa1hmgen2do2om6a6i.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.951498502876-a6n6j3n2slva55aa1hmgen2do2om6a6i</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>951498502876-jk40i9bd9p1km7ns0g9bdg0lqbfih70c.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCFdZPoPYw-YlZ4FKNcPS9gDi02wYR2bHA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>951498502876</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.quizapp.sparx</string>
+	<key>PROJECT_ID</key>
+	<string>quizapp-6a2ed</string>
+	<key>STORAGE_BUCKET</key>
+	<string>quizapp-6a2ed.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:951498502876:ios:c20e1515197ebb3e587a19</string>
+</dict>
+</plist>
